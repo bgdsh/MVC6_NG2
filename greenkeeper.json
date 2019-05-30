@@ -1,0 +1,19 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "src/OpenGameList/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/common/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/compiler/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/core/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/forms/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/http/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/platform-browser-dynamic/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/platform-browser/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/router/package.json",
+        "src/OpenGameList/wwwroot/js/@angular/upgrade/package.json",
+        "src/OpenGameList/wwwroot/js/rxjs/package.json"
+      ]
+    }
+  }
+}
